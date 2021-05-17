@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<img width="35%" align="right" alt="Github" src="https://i.imgur.com/mDCD4BB.png">](https://www.youtube.com/channel/UCnrXZrnhFuciCBwUKsu8s4Q)
+[<img width="40%" align="right" alt="Github" src="https://i.imgur.com/mDCD4BB.png">](https://www.youtube.com/channel/UCnrXZrnhFuciCBwUKsu8s4Q)
 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
